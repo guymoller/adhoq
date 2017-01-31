@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails", ">= 3.2"
 
-  s.add_dependency 'axlsx', git: 'git://github.com/randym/axlsx', branch: "master"
+  s.add_dependency 'axlsx'
   s.add_dependency 'coffee-rails'
   s.add_dependency 'fog',   '~> 1.23'
   s.add_dependency 'font-awesome-sass'
